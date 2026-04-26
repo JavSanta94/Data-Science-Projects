@@ -48,6 +48,7 @@ Dado el comportamiento histórico de un cliente (demografía, límite de crédit
 
 ## 🏗️ Estructura del Proyecto
 
+```
 credit_card_default/
 │
 ├── data/
@@ -71,6 +72,7 @@ credit_card_default/
 ├── predict.py # Script de predicción
 ├── requirements.txt
 └── README.md
+```
 
 ## 🚀 Modelos Probados
 
