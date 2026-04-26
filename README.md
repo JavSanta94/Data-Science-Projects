@@ -36,5 +36,4 @@ Data-Science-Projects/
 ```bash
 git clone https://github.com/JavSanta94/Data-Science-Projects.git
 cd Data-Science-Projects
-pip install -r requirements.txt   # (cuando lo crees)
 jupyter notebook
