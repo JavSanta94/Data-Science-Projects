@@ -5,11 +5,14 @@ Repositorio que agrupa **proyectos integrales de ciencia de datos** y **pruebas 
 > "Este repositorio es mi vitrina práctica en Machine Learning. Contiene tanto proyectos personales donde aplico metodologías end-to-end, como pruebas técnicas reales de procesos de selección. El objetivo es demostrar mi capacidad para entender problemas de negocio, transformar datos, construir modelos robustos y comunicar resultados de forma clara."
 
 ## 📂 Estructura
+
+```
 Data-Science-Projects/
 ├── proyectos/ # Proyectos personales completos
 ├── pruebas-tecnicas/ # Challenges y evaluaciones de postulaciones
 ├── datasets/ # Conjuntos de datos (pequeños o de muestra)
 └── utils/ # Funciones auxiliares reutilizables
+```
 
 ## 🧠 Temáticas cubiertas
 
